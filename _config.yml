@@ -1,0 +1,28 @@
+name: Allordering
+favicon: null
+layout_spectrum: 0.04846149985678494
+typography_spectrum: 0.723380915587768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4359682174399495
+  lightness: 0.5373062540311366
+  saturation: 0.5033712475560606
+  rhythmicContrast: 0.6733304224908352
+purpose: []
